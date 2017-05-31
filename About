@@ -1,3 +1,15 @@
-This repo aims to provide tips and recommendations on how to get started as a meaningful contributor in the kubernetes community even if you are not a developer.
-The community needs contributors from all functions and the core team is more than willing to help you and to take your help in any way possible.
-This repo is meant for private use by Swarna Podila.  If you have any questions or would like to reuse this content anywhere, please reach out to Swarna here or on twitter @skpodila
+This repo aims to provide tips and recommendations on how to get started as a non-tech k8s community contributor 
+
+K8s community needs support from all functions.
+The core team is more than willing to help you and to take your help in any way possible.
+Reach out to Sarah Novotny if you are not sure where to start.
+
+For docs, visit https://kubernetes.io/docs/home/
+
+Stay connected through these channels:
+Slack: http://slack.k8s.io/
+GitHub: https://github.com/kubernetes/kubernetes/
+(If you identify yourself as a female, ask Michelle Noorali to add you to slack channel for k8s women)
+
+This repo is meant for private use by Swarna Podila.  
+Questions? Want to reuse this content? Please reach out to me here or on twitter (@skpodila)

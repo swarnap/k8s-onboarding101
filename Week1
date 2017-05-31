@@ -10,6 +10,14 @@ It seems to be working for me, but please feel free to let me know what works(ed
   While blog.kubernetes.io is a great place to read up, their first post from March 2015 is still helpful!
   http://blog.kubernetes.io/2015/03/welcome-to-kubernetes-blog.html
   
+  Jump in:
+    Find the nearest kubernetes meetup group and join the next meetup!
+    Or, even better - organize/sponsor/host an upcoming meetup (if that is possible)
+    Look through the CNCF meetup groups list: 
+      https://www.meetup.com/pro/cncf/
+    Or, search for "kubernetes" meetups: 
+      https://www.meetup.com/topics/kubernetes/
+  
   Stay in touch on social
   Slack (especially #kubernetes-novice) is a great way to ask questions
   https://kubernetes.slack.com

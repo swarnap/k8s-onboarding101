@@ -1,0 +1,33 @@
+So, you are excited about kubernetes and want to get started!  Yay, welcome!
+There are so many resources available online that you find it overwhelming.  Well, you're not alone.
+
+This is how I got started. 
+It seems to be working for me, but please feel free to let me know what works(ed) for you.
+
+  Learn the basics first. What is kubernetes?  And more importantly, what ISN'T kubernetes?
+  https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/
+  
+  While blog.kubernetes.io is a great place to read up, their first post from March 2015 is still helpful!
+  http://blog.kubernetes.io/2015/03/welcome-to-kubernetes-blog.html
+  
+  Stay in touch on social
+  Slack (especially #kubernetes-novice) is a great way to ask questions
+  https://kubernetes.slack.com
+
+  Look through GitHub issues (open and closed) to see if anyone else ran into the same issue
+  https://github.com/kubernetes/kubernetes/
+  
+  While there are MANY kubernetes experts on twitter, here are a few I can think of: 
+  (this is not a complete list by ANY means and will grow with time)
+      @jbeda
+      @cmcluckie
+      @brendanburns
+      @sarahnovotny
+      @thockin
+      @kelseyhightower
+      @asynchio
+      @apbhatnagar
+      @michellenoorali
+      @aronchick
+      @kubernauts
+      @kubernetesio

@@ -10,20 +10,29 @@ It seems to be working for me, but please feel free to let me know what works(ed
   While blog.kubernetes.io is a great place to read up, their first post from March 2015 is still helpful!
   http://blog.kubernetes.io/2015/03/welcome-to-kubernetes-blog.html
   
-  Jump in:
-    Find the nearest kubernetes meetup group and join the next meetup!
-    Or, even better - organize/sponsor/host an upcoming meetup (if that is possible)
-    Look through the CNCF meetup groups list: 
-      https://www.meetup.com/pro/cncf/
-    Or, search for "kubernetes" meetups: 
-      https://www.meetup.com/topics/kubernetes/
+  Cloud Native Computing Foundation
+  This is an open source foundation that hosts several projects including Kubernetes.
+  https://www.cncf.io/
+  CNCF, as any other community, is always looking for volunteers and welcomes any help.  Examples include:
+      Staffing CNCF booth at key industry events (DockerCon, KubeCon, Google NEXT, OpenStack Summit, etc.)
+      Educational and informational articles for The New Stack and other such publications
+      Documentation (if you're not technical, ask if there are any non-technical docs/topics that need attention)
+      Webinars (reach out to Mark Coleman to brainstorm on ideas and how you can help)
+      Meetups (host/organize/sponsor, if possible)
+        https://www.meetup.com/pro/cncf/
+        https://www.meetup.com/topics/kubernetes/
+
+If you're still not sure how/where to get started, reach out to Chris Aniszczyk (@cra on twitter)
+      
   
   Stay in touch on social
   Slack (especially #kubernetes-novice) is a great way to ask questions
   https://kubernetes.slack.com
 
-  Look through GitHub issues (open and closed) to see if anyone else ran into the same issue
+  If you're interested and if you have a technical background, 
+  you can also look through GitHub issues (open and closed) and help.
   https://github.com/kubernetes/kubernetes/
+    Remember, any help is welcome and greatly appreciated.
   
   While there are MANY kubernetes experts on twitter, here are a few I can think of: 
   (this is not a complete list by ANY means and will grow with time)
